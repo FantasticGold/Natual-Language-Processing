@@ -1,2 +1,7 @@
 # Natual-Language-Processing
-Homework for Natual Language Processing
+Jupyter + Python
+
+| Blog                 |
+| -------------------- |
+| Levenshtein Distance |
+
